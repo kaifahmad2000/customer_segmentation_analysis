@@ -23,21 +23,21 @@ This project focuses on analyzing customer behavior based on purchase patterns u
 5. Scikit-learn
 
 # Key Steps
-1. Data Cleaning
-Handled missing values
-Removed duplicates
-Converted data types
-2. Exploratory Data Analysis (EDA)
-Analyzed customer income and spending patterns
-Visualized relationships between variables
-Identified trends and outliers
-3. Feature Engineering
-Created new features based on customer behavior
-Normalized/standardized data
-4. Customer Segmentation
+1. Data Cleaning:
+Handled missing values,
+Removed duplicates,
+Converted data types.
+2. Exploratory Data Analysis (EDA):
+Analyzed customer income and spending patterns,
+Visualized relationships between variables,
+Identified trends and outliers.
+3. Feature Engineering:
+Created new features based on customer behavior,
+Normalized/standardized data,
+4. Customer Segmentation:
 Segmented customers into four categories based on purchase behavior
-5. Model Building
-Built a classification model to predict customer segments
+5. Model Building:
+Built a classification model to predict customer segments,
 Evaluated model performance using appropriate metrics
 
 # Results & Insights
